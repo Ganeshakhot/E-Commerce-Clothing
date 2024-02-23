@@ -2,9 +2,7 @@
 
 1.Download the zip file from github or clone the Project 
 
-
 2.Open the project in inteligi idea IDE 
-
 
 3. Add Username of your postgress database(Default name Postgress)
  and add your postgress password which is set when installing the postgress SQL
